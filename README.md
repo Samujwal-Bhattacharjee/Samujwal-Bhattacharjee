@@ -1,85 +1,43 @@
 <div align="center">
 
-# 👋 Hey, I'm Samujwal
+# Hey, I'm Samujwal Bhattacharjee
 
-### 🚀 Engineering Student | AI & Robotics Enthusiast | Builder
+### AI • Robotics • Software • Builder
 
-*"Building ideas that blend creativity, technology, and intelligence."*
+Building projects at the intersection of intelligence, engineering and creativity.
+
+[LinkedIn](https://www.linkedin.com/in/samujwal-bhattacharjee-a00843358/) • [Portfolio](https://samujwal-bhattacharjee.netlify.app/) • [Email](mailto:sb8231@srmist.edu.in)
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-🎓 B.Tech Computer Science Student  
-🤖 Passionate about **AI, Robotics, and Smart Systems**  
-🛠️ Exploring the intersection of **software, hardware, and innovation**  
-🚁 Interested in **robotics engineering, automation, and futuristic tech**  
-💡 Love building projects that solve problems and push boundaries  
-🎵 Also interested in **music, storytelling, and creative technology**
+🎓 B.Tech CSE Student  
+🤖 Interested in AI, Robotics & Smart Systems  
+🚀 Building real-world tech projects and exploring startups  
 
 ---
 
-## 🚀 Current Focus
-
-🔹 Artificial Intelligence & Machine Learning  
-🔹 Robotics and Embedded Systems  
-🔹 Full-Stack & Software Development  
-🔹 Building Real-World Projects  
-🔹 Exploring Startup & Tech Entrepreneurship
-
----
-
-## 🧠 Skills
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
-</p>
-
-### ⚙️ Technologies & Domains
-- Artificial Intelligence  
-- Machine Learning  
-- Robotics  
-- Arduino & Hardware Projects  
-- Problem Solving  
-- Object-Oriented Programming
-
-### 🎨 Creative Side
-- Tech Content & Storytelling  
-- Creative Thinking  
-- Music & Experimental Projects
-
----
-
-## 🛠️ Tools & Technologies
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode,arduino,linux" />
 </p>
-
-**Tools I Use**
-- VS Code  
-- Git & GitHub  
-- Arduino IDE  
-- linux(fedora)  
-- Development & Prototyping Tools
 
 ---
 
+## Currently Exploring
 
-
-## 🌐 Connect With Me
-
-📧 Email: sb8231@srmist.edu.in
-💼 LinkedIn: linkedin.com/in/yourprofile  https://www.linkedin.com/in/samujwal-bhattacharjee-a00843358/
-📸 Instagram: @samujwal_bhattacharjee 
+- AI & Machine Learning  
+- Robotics & Embedded Systems  
+- Full-Stack Development  
 
 ---
 
 <div align="center">
 
-### ⚡ "Learning. Building. Experimenting. Repeating."
+⚡ *Learning • Building • Experimenting*
 
 </div>
