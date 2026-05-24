@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Peter
+# 👋 Hey, I'm Samujwal
 
 ### 🚀 Engineering Student | AI & Robotics Enthusiast | Builder
 
