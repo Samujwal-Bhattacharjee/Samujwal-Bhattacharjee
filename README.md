@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### ════════ AI • Robotics • Software • Builder ════════
+### ════════ 𝘼𝙄 • 𝙍𝙤𝙗𝙤𝙩𝙞𝙘𝙨 • 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 • 𝘽𝙪𝙞𝙡𝙙𝙚𝙧 ════════
 
 Building projects at the intersection of intelligence, engineering and creativity.
 
