@@ -2,17 +2,17 @@
 
 <div align="center">
 
-### AI • Robotics • Software • Builder
+### ════════ AI • Robotics • Software • Builder ════════
 
 Building projects at the intersection of intelligence, engineering and creativity.
 
-[LinkedIn](https://www.linkedin.com/in/samujwal-bhattacharjee-a00843358/) • [Portfolio](https://samujwal-bhattacharjee.netlify.app/) • [Email](mailto:sb8231@srmist.edu.in)
+ ⚡︎ [LinkedIn](https://www.linkedin.com/in/samujwal-bhattacharjee-a00843358/) • [Portfolio](https://samujwal-bhattacharjee.netlify.app/) • [Email](mailto:sb8231@srmist.edu.in) ⚡︎
 
 </div>
 
 ---
 
-## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
+## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
 
 🎓 B.Tech CSE Student  
 🤖 Interested in AI, Robotics & Smart Systems  
@@ -20,7 +20,7 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 ---
 
-## 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
+## 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode,arduino,linux" />
@@ -28,16 +28,16 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 ---
 
-## 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 
+## 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
 
 ---
 
 
-## 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏
+## 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 ᯓ★
 
 ---
 
-## 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈
+## 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
 
 - AI & Machine Learning  
 - Robotics & Embedded Systems  
