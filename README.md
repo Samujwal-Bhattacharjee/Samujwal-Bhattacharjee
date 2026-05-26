@@ -1,6 +1,9 @@
-<div align="center">
 
-# Hey, I'm Samujwal Bhattacharjee
+<img width="1024" height="285" alt="image" src="https://github.com/user-attachments/assets/776e9e79-a76f-47b9-914f-d1da385db4df" />
+
+
+
+<div align="center">
 
 ### AI • Robotics • Software • Builder
 
