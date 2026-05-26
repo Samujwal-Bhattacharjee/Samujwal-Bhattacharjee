@@ -12,7 +12,7 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 ---
 
-## About Me
+## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
 🎓 B.Tech CSE Student  
 🤖 Interested in AI, Robotics & Smart Systems  
@@ -20,7 +20,7 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 ---
 
-## Tech Stack
+## 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode,arduino,linux" />
@@ -28,7 +28,16 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 ---
 
-## Currently Exploring
+## 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 
+
+---
+
+
+## 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏
+
+---
+
+## 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈
 
 - AI & Machine Learning  
 - Robotics & Embedded Systems  
