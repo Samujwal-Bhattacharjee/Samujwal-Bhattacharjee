@@ -14,9 +14,9 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 ## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
 
-🎓 B.Tech CSE Student  
-🤖 Interested in AI, Robotics & Smart Systems  
-🚀 Building real-world tech projects and exploring startups  
+→ B.Tech CSE Student  
+→ Interested in AI, Robotics & Smart Systems  
+→ Building real-world tech projects and exploring startups  
 
 ---
 
