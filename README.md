@@ -10,6 +10,10 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Robotics+%7C+Developer;Building+cool+things;Learning+and+creating" />
+</p>
+
 ---
 
 # 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
