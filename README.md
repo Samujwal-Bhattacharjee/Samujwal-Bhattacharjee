@@ -12,7 +12,7 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 ---
 
-## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
+# 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
 
 → B.Tech CSE Student  
 → Interested in AI, Robotics & Smart Systems  
@@ -20,24 +20,29 @@ Building projects at the intersection of intelligence, engineering and creativit
 
 ---
 
-## 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
+# 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode,arduino,linux" />
 </p>
 
+
+
+# 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
+
+### →AI Gesture Controlled Bionic Robotic Hand-
+   This project builds a gesture-controlled bionic robotic hand that mimics real human finger movements using:
+   Computer Vision , Artificial Intelligence , Embedded Systems
+  https://github.com/Samujwal-Bhattacharjee/Bionic_Arm
+
 ---
 
-## 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
+
+# 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 ᯓ★
 
 ---
 
-
-## 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 ᯓ★
-
----
-
-## 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
+# 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
 
 - AI & Machine Learning  
 - Robotics & Embedded Systems  
