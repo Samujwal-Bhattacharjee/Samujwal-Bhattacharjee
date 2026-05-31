@@ -35,10 +35,23 @@ Building projects at the intersection of intelligence, engineering and creativit
    Computer Vision , Artificial Intelligence , Embedded Systems
   https://github.com/Samujwal-Bhattacharjee/Bionic_Arm
 
----
+### →Disaster Impact OS-
+   AI-based platform that analyzes satellite, drone, and ground imagery to classify
+disaster damage severity.Built using React, TypeScript, FastAPI, Python, Torch and OpenAI
+CLIP, gaining experience in full-stack AI development and model integration
+
+ ---
 
 
 # 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 ᯓ★
+→Introduction to Generative AI
+ Studio- Google Cloud Skills
+
+→Artificial Intelligence
+ Fundamentals- IBM
+
+→JPMorganChase - Software
+Engineering Job SimulationForage
 
 ---
 
